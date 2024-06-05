@@ -57,7 +57,7 @@ Potterhead E-Commerce is a Laravel-based e-commerce application that allows user
 
 5. **Run migrations and seed the database:**
    
-   - At first go to the dbPHPMYADMIN forlder, there will be the database table exported, import that into your database, then
+   - At first go to the dbPHPMYADMIN folder, there will be the database table exported, import that into your database, then
 
     ```bash
     php artisan migrate --seed
